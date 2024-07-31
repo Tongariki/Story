@@ -1,2 +1,2 @@
 dir
-This is chapter 1
+This chapter is now revised
